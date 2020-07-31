@@ -1,0 +1,3 @@
+outs:
+- md5: 0b61a397b832ae67b0918b19c9dda3a9
+  path: starbucks_location_train.csv
